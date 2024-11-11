@@ -1,7 +1,7 @@
 # Online-Sales-Data-Analysis
 
 ## Project Description 
-This project focuses on analyzing sales data to gain insights into customer behavior, product performance, geographical trends, and channel effectiveness. Using Python and various data visualization libraries, I performed data cleaning, exploratory data analysis, and visualizations to answer key business questions. This analysis helps identify top-selling products, customer preferences, returns patterns, and potential areas for operational improvement.
+This project focuses on analyzing online sales data to gain insights into customer behavior, product performance, geographical trends, and channel effectiveness. Using Python and various data visualization libraries, I performed data cleaning, exploratory data analysis, and visualizations to answer key business questions. This analysis helps identify top-selling products, customer preferences, returns patterns, and potential areas for operational improvement.
 
 ## Dataset:
 - online_sales_dataset.csv
