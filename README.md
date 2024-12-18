@@ -12,7 +12,7 @@ This project focuses on analyzing online sales data to gain insights into custom
 - Jupyter Notebook
 
 ## Sales Distribution by Country
-A bar chart showing total revenue distribution by country. This highlights the highest-performing countries.
+Total revenue distribution by country reveals the United States leading with $4.8 million in sales, followed by the United Kingdom and Sweden. These countries demonstrate strong performance, contributing the most to overall revenue.
 
 ![Revenue By Country](./Charts/Revenue%20By%20Country%20(Bar%20Chart).png)
 
